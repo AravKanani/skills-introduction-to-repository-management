@@ -1,16 +1,22 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: "[FEATURE] "
-labels: enhancement
+name: Bug report
+about: Create a report to help us improve
+title: "[BUG] "
+labels: bug
 assignees: ''
 ---
 
-**Is your feature request related to a problem?**
-A clear description of the problem.
+**Describe the bug**
+A clear description of what the bug is.
 
-**Describe the solution you'd like**
-What you want to happen.
+**To Reproduce**
+Steps to reproduce:
+1. Go to '...'
+2. Click on '...'
+3. See error
 
-**Additional context**
-Anything else, like screenshots.
+**Expected behavior**
+What you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots.
